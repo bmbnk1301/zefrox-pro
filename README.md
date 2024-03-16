@@ -3,7 +3,6 @@
 <h3 align="center">Zefrox Pro</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bmbnk1301&label=Profile%20views&color=0e75b6&style=flat" alt="bmbnk1301" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmbnk1301&theme=" alt="bmbnk1301" /></a> </p>
 
 - 💬 Ask me about **Cryptocurrency**
 - 📫 How to reach me **bmbng.karya@gmail.com**
