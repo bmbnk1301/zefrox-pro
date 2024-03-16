@@ -5,7 +5,6 @@
 
 
 - 💬 Ask me about **Cryptocurrency**
-- 
 - ⚡ Fun fact **Berlomba lomba dalam berbuat kebaikan**
 
 <div> <a href="https://twitter.com/b_a_m_b_a_n_k" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -22,7 +21,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmbnk1301&hide_progress=true&theme=vue" alt=bmbnk1301 />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmbnk1301&hide_progress=true&theme=vue" alt=bmbnk1301 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bmbnk1301&show_icons=true&locale=en&theme=dracula" alt="bmbnk1301" /></p>
 
